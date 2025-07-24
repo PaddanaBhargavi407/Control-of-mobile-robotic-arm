@@ -1,1 +1,1 @@
-# Control-of-mobile-robotic-arm
+A Bluetooth-controlled mobile robotic arm with 5 degrees of freedom (DOF), designed using the ESP32 microcontroller. This project combines embedded systems, robotics, and wireless communication to create a flexible, low-cost robotic platform capable of performing real-time manipulation and navigation tasks. Ideal for automation, education, and remote operation in dynamic environment
